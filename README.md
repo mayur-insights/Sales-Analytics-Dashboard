@@ -19,3 +19,6 @@ Tools & Technologies:
 - Tableau
 - Excel
 
+PowerBI Dashboard:
+
+!(image alt)[https://github.com/mayur-insights/Sales-Analytics-Dashboard/blob/d529a4f2f81d5e532962bfef76bb6fefccfab338/PowerBI%20Dashboard%20.png]
