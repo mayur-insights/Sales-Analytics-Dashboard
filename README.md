@@ -22,3 +22,10 @@ Tools & Technologies:
 PowerBI Dashboard:
 
 ![image alt](https://github.com/mayur-insights/Sales-Analytics-Dashboard/blob/d529a4f2f81d5e532962bfef76bb6fefccfab338/PowerBI%20Dashboard%20.png)
+
+Tableau Dashboard:
+
+![image alt](https://github.com/mayur-insights/Sales-Analytics-Dashboard/blob/2ef4d8a0db11f38b2d96bba9773fc8072e5bb86f/Tableau%20Dashboard.png)
+
+MS Excel Dashboard:
+![image alt](https://github.com/mayur-insights/Sales-Analytics-Dashboard/blob/2ef4d8a0db11f38b2d96bba9773fc8072e5bb86f/MS%20Excel%20Dashboard.png)
