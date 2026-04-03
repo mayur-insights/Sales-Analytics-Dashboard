@@ -28,4 +28,4 @@ Tableau Dashboard:
 ![image alt](https://github.com/mayur-insights/Sales-Analytics-Dashboard/blob/2ef4d8a0db11f38b2d96bba9773fc8072e5bb86f/Tableau%20Dashboard.png)
 
 MS Excel Dashboard:
-![image alt](https://github.com/mayur-insights/Sales-Analytics-Dashboard/blob/2ef4d8a0db11f38b2d96bba9773fc8072e5bb86f/MS%20Excel%20Dashboard.png)
+![image alt](https://github.com/mayur-insights/Sales-Analytics-Dashboard/blob/ac392c126bc82985170e82309ba5e317ee4d6e54/MS%20Excel%20Dashboard%20.png)
